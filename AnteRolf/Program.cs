@@ -16,6 +16,7 @@ namespace AnteRolf
             Console.WriteLine(myDemo.writeHello());
 
             Demo.HejPaDaj();
+            Console.WriteLine("Dags att åka hem?");
         }
     }
 }
