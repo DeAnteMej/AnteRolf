@@ -10,7 +10,10 @@ namespace AnteRolf
     {
         static void Main(string[] args)
         {
+            var myDemo = new Demo(1,"Adam");
             Console.WriteLine("Welcome to my Git-Demo");
+
+            Console.WriteLine(myDemo.writeHello());
         }
     }
 }
