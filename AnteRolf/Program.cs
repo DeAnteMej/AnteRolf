@@ -18,6 +18,7 @@ namespace AnteRolf
             Demo.HejPaDaj();
 
             Console.WriteLine("hepp - Rolfs nya bransch");
+            Console.WriteLine("Dags att åka hem?");
         }
     }
 }
