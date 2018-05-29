@@ -8,6 +8,11 @@ namespace AnteRolf
 {
     class Demo
     {
+        public static void HejPaDaj()
+        {
+            Console.WriteLine("Tjosan!");
+        }
+
         public Demo(int id, string name )
         {
             Id = id;
