@@ -14,6 +14,8 @@ namespace AnteRolf
             Console.WriteLine("Welcome to my Git-Demo");
 
             Console.WriteLine(myDemo.writeHello());
+
+            Demo.HejPaDaj();
         }
     }
 }
